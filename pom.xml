@@ -8,5 +8,12 @@
     <artifactId>portfolio-web-backend</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.sendgrid</groupId>
+            <artifactId>sendgrid-java</artifactId>
+            <version>4.4.1</version>
+        </dependency>
+    </dependencies>
 
 </project>
